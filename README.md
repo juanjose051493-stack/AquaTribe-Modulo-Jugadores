@@ -1,5 +1,4 @@
-# AQUA TRIBE SURVIVAL
-## Módulo de Gestión de Jugadores
+# Módulo de Gestión de Jugadores
 
 ### 1. Información de la evidencia
 
